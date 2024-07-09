@@ -2,6 +2,8 @@
 
 A rewrite/combination of my two programs [LGSTrayBattery](https://github.com/andyvorld/LGSTrayBattery) and [LGSTrayBattery_GHUB](https://github.com/andyvorld/LGSTrayBattery_GHUB), which should allow for interaction via both the native HID and Logitech GaminG Hub websockets.
 
+This does *not* work with bluetooth connected devices, they must be attached via the Logitech provided dongle.
+
 ## How to install
 
 [![GitHub Release](https://img.shields.io/github/v/release/andyvorld/LGSTrayBattery?sort=semver)](https://github.com/andyvorld/LGSTrayBattery/releases/latest)
